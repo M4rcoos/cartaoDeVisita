@@ -7,8 +7,8 @@
   <img src="https://user-images.githubusercontent.com/89174923/147838173-d9a6fbe3-de91-41eb-9cb2-9fa204f0920a.PNG"/>
   </div>
 <h1>💻 Tecnologias </h1>
-  - <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  - <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
 
@@ -16,7 +16,7 @@
 ---
 
 
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/89174923/147839122-93c661b5-f4be-44b6-8efc-4430861eacfe.png" width="100px;" alt=""/>
  <br />
  <b>Marcos Vinicius</b></sub>
 
