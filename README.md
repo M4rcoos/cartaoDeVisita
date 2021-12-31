@@ -21,7 +21,7 @@
  <b>Marcos Vinicius</b></sub>
 
 
-Feito com ❤️ por Marcos vinicius Entre em contato!
+feito por Marcos vinicius, Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-8841a1171/)](https://www.linkedin.com/in/marcos-vinicius-8841a1171/) 
-[![Gmail Badge](https://img.shields.io/badge/-Marcos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https//:souza.marcosv2@gmail.com)](souza.marcosv2@gmail.com)
+
