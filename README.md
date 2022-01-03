@@ -7,10 +7,15 @@
   <img src="https://user-images.githubusercontent.com/89174923/147838173-d9a6fbe3-de91-41eb-9cb2-9fa204f0920a.PNG"/>
   </div>
 <h1>💻 Tecnologias </h1>
-   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+   * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+   
+   * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
   
-  
+  <h2>link da crachá </h2>
+
+* [Marcos ](https://thirsty-bhaskara-c152bc.netlify.app/)
+
 
   ### Autor
 ---
